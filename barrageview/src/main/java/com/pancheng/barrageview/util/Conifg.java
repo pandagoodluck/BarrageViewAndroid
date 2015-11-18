@@ -8,6 +8,11 @@ public class Conifg {
     /**
      * Barrage View Config
      */
+    public static int BARRAGE_VIEW_TYPE_TEXT = 0;
+    public static int BARRAGE_VIEW_TYPE_WITH_IMG = 1;
+
+
+
 
 
     /**

@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BarrageViewAndroid.iml" filepath="$PROJECT_DIR$/BarrageViewAndroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barrageview/barrageview.iml" filepath="$PROJECT_DIR$/barrageview/barrageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-barrageview/sample-barrageview.iml" filepath="$PROJECT_DIR$/sample-barrageview/sample-barrageview.iml" />
     </modules>
   </component>
 </project>
