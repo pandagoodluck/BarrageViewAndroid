@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="E:\Projects\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jar="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="E:\Projects\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-7eb55d911d8cb1e116711b35e97d4ffc31d3884d.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\classes-a7d358153671ea457622ac58023b1212439076f5.jar" />
     </item>
     <item
         jar="D:\Softwares\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="E:\Projects\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-4ec8e5bb481037bf03cda67e43c96469666ee09a.jar" />
+        <dex dex="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-4ec8e5bb481037bf03cda67e43c96469666ee09a.jar" />
     </item>
     <item
-        jar="E:\Projects\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="E:\Projects\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\classes-574ddf63aea811da180286e29dc60f45854fb9bf.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-c903491e6137401e3418841e4d55494ca16e6ae2.jar" />
     </item>
     <item
-        jar="E:\Projects\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="E:\Projects\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\classes-da8fa77edf6e00c3a837d704dc39023fcf47fed7.jar" />
-    </item>
-    <item
-        jar="E:\Projects\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="E:\Projects\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\classes-3f2061b26971ba786f52610bc87eb5ed57bbec1d.jar" />
-    </item>
-    <item
-        jar="E:\Projects\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jar="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="E:\Projects\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\classes-029a7bcace3a0383ae5c4f3d14fe8d1e84d6cc16.jar" />
+        <dex dex="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\classes-ed63793118c0efe40d3ad6f0c5416f086167860d.jar" />
+    </item>
+    <item
+        jar="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\classes-49722b42d8663027aa29aafc3c9c61d584e6ed68.jar" />
+    </item>
+    <item
+        jar="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Projects\MINE\BarrageViewAndroid\app\build\intermediates\pre-dexed\debug\classes-e62b9946393fe77be17f414fef74f1dd4f0a09c5.jar" />
     </item>
 
 </items>
