@@ -23,6 +23,8 @@ import java.util.zip.Inflater;
  */
 public class BarrageViewWithImg extends AbsBarrageView {
 
+    private int status = 0;
+
     private ArrayList<String> contentList;
     private LayoutInflater mInflater;
     private ArrayList<BarrageItemBeanWithImg> barrageItemBeanList;
@@ -60,12 +62,11 @@ public class BarrageViewWithImg extends AbsBarrageView {
     public void setFrame(int mWidth, int mHeight) {
         this.mWidth = mWidth;
         this.mHeight = mHeight;
+
     }
     public void initWithData(Context context, ArrayList<String> contentList,ArrayList<String> imgUrlList){
         this.contentList = contentList;
         this.init(context);
-        this.mWidth  = this.getWidth();
-        this.mHeight = this.getHeight();
 
         mInflater = LayoutInflater.from(context);
         barrageItemBeanList = new ArrayList<>();
@@ -117,7 +118,7 @@ public class BarrageViewWithImg extends AbsBarrageView {
         barrageItemBean.contentView = barrageItemRelativeLayout;
         barrageItemBean.mPosX = startX;
         barrageItemBean.mPosY = startY;
-        barrageItemRelativeLayout.setAlpha(1);
+        barrageItemRelativeLayout.setAlpha(0);
         addView(barrageItemRelativeLayout);
         return barrageItemBean;
     }
@@ -182,5 +183,11 @@ public class BarrageViewWithImg extends AbsBarrageView {
         double random_position2 = Math.random();
         return (int) ((random_position2 * 0.6) * (double) mWidth);
     }
+    public void onWindowFocusChanged(boolean hasFocus) {
+        // TODO Auto-generated method stub
+        super.onWindowFocusChanged(hasFocus);
 
+        this.setFrame(this.getWidth(),this.getHeight());
+
+    }
 }

@@ -10,47 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73f940ae-fb5d-4657-918c-6a0aa163eac9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/barrageview/src/main/res/drawable/games_barrage_bg_small_n.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample-barrageview/src/main/res/drawable/barrage_bg_small_n.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/bolts_android_1_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/drawee_0_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fbcore_0_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fresco_0_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/imagepipeline_0_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/library_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/util/Config.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/barrageview/src/main/res/layout/barrage_view_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/barrageview/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MyAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample-barrageview/src/main/res/layout/layout_item.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/util/BarrageViewFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/util/Conifg.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/barrageview.iml" afterPath="$PROJECT_DIR$/barrageview/barrageview.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/build.gradle" afterPath="$PROJECT_DIR$/barrageview/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/barrageview/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/bean/BarrageItemBeanText.java" afterPath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/bean/BarrageItemBeanText.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/bean/BarrageItemBeanWithImg.java" afterPath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/bean/BarrageItemBeanWithImg.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/bean/BasebarrageItemBean.java" afterPath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/bean/BasebarrageItemBean.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/AbsBarrageView.java" afterPath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/AbsBarrageView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/BarrageViewText.java" afterPath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/BarrageViewText.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/BarrageViewWithImg.java" afterPath="$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/BarrageViewWithImg.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample-barrageview/build.gradle" afterPath="$PROJECT_DIR$/sample-barrageview/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample-barrageview/sample-barrageview.iml" afterPath="$PROJECT_DIR$/sample-barrageview/sample-barrageview.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample-barrageview/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/sample-barrageview/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MainActivity.java" afterPath="$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample-barrageview/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/sample-barrageview/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample-barrageview/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/sample-barrageview/src/main/res/layout/content_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MyAdapter.java" afterPath="$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MyAdapter.java" />
     </list>
     <ignored path="BarrageViewAndroid.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,10 +74,10 @@
         <entry file="file://$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/BarrageViewWithImg.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+              <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
               <folding>
-                <element signature="e#4659#4660#0" expanded="true" />
-                <element signature="e#4699#4700#0" expanded="true" />
+                <element signature="e#4608#4609#0" expanded="true" />
+                <element signature="e#4648#4649#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,11 +86,11 @@
       <file leaf-file-name="MyAdapter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MyAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10992366">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.59875584">
+              <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
               <folding>
-                <element signature="e#1855#1856#0" expanded="true" />
-                <element signature="e#1889#1890#0" expanded="true" />
+                <element signature="e#1806#1807#0" expanded="true" />
+                <element signature="e#1840#1841#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -3079,7 +3046,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23830736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2516704" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19710468" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3094,7 +3061,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20935412" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19376393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3125,9 +3092,13 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="12" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="barrageViewWithImg" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/util/Config.java">
@@ -3455,6 +3426,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/util/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53282446">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/AbsBarrageView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3468,40 +3455,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/ui/BarrageViewWithImg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
           <folding>
-            <element signature="e#4659#4660#0" expanded="true" />
-            <element signature="e#4699#4700#0" expanded="true" />
+            <element signature="e#4608#4609#0" expanded="true" />
+            <element signature="e#4648#4649#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barrageview/src/main/java/com/pancheng/barrageview/util/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53282446">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-barrageview/src/main/java/com/pancheng/sample_barrageview/MyAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10992366">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.59875584">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
           <folding>
-            <element signature="e#1855#1856#0" expanded="true" />
-            <element signature="e#1889#1890#0" expanded="true" />
+            <element signature="e#1806#1807#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -39,7 +39,8 @@ public class MyAdapter extends RecyclerView.Adapter {
         MyViewHolder myViewHolder = (MyViewHolder)holder;
         if(!posArray.contains(position)) {
             myViewHolder.barrageViewWithImg.initWithData(mContext, data, urlList);
-            myViewHolder.barrageViewWithImg.setFrame(myViewHolder.simpleDraweeView.getWidth(),myViewHolder.simpleDraweeView.getHeight());
+            //first frame
+            myViewHolder.barrageViewWithImg.setFrame(800,800);
             posArray.add(position);
         }
         myViewHolder.simpleDraweeView.setImageURI(Uri.parse("http://b.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=b5243094e6cd7b89ed6c3e853f1479d6/faf2b2119313b07eaba360560cd7912397dd8c55.jpg"));
@@ -59,5 +60,6 @@ public class MyAdapter extends RecyclerView.Adapter {
             simpleDraweeView =(SimpleDraweeView) itemView.findViewById(R.id.content_image);
         }
     }
+
 
 }
