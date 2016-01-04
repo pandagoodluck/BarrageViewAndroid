@@ -2,6 +2,7 @@ package com.pancheng.barrageview.ui;
 
 import android.annotation.TargetApi;
 import android.content.Context;
+import android.graphics.Canvas;
 import android.os.Build;
 import android.support.v4.view.GestureDetectorCompat;
 import android.util.AttributeSet;
@@ -11,7 +12,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.RelativeLayout;
 
-import com.pancheng.barrageview.bean.BasebarrageItemBean;
+import com.pancheng.barrageview.bean.BaseBarrageItemBean;
 
 import java.util.ArrayList;
 
@@ -45,8 +46,14 @@ public abstract class AbsBarrageView extends RelativeLayout {
      */
     protected Context mContext;
 
-    protected ArrayList<BasebarrageItemBean> barrageList;
+    /**
+     * Content Data List
+     */
+    protected ArrayList<BaseBarrageItemBean> barrageList;
 
+    /**
+     * Detector for Gesture
+     */
     protected GestureDetectorCompat mDetector;
 
     protected ArrayList<Integer> clickList;
@@ -117,6 +124,10 @@ public abstract class AbsBarrageView extends RelativeLayout {
     }
 
 
+    @Override
+    protected void onDraw(Canvas canvas) {
+        super.onDraw(canvas);
+    }
 
     public class BVGestureListener extends GestureDetector.SimpleOnGestureListener {
         @Override
@@ -126,9 +137,43 @@ public abstract class AbsBarrageView extends RelativeLayout {
 
         @Override
         public boolean onSingleTapUp(MotionEvent e) {
+            float x = e.getX();
+            float y = e.getY();
+            clickList.clear();
+            for (int i = barrageList.size() - 1; i >= 0; --i) {
+               if(isPosInBarrage(x,y,barrageList.get(i)))
+                    clickList.add(i);
+
+            }
+            int clickIndex = -1;
+            if (clickList.size() !=0 ){
+                int maxAlpha =0;
+                for(int i=0;i <clickList.size();++i){
+                    if (barrageList.get(clickList.get(i)).curAlpha > maxAlpha){
+                        maxAlpha = barrageList.get(clickList.get(i)).curAlpha;
+                        clickIndex = clickList.get(i);
+                    }
+                }
+            }
+            if (clickIndex == -1) {
+
+            }
+
+            else
+                ;
             return true;
+
         }
     }
+
+
+    protected boolean isPosInBarrage(float x, float y, BaseBarrageItemBean barrageItem){
+        return true;
+    }
+
+
+    protected void removeAllBarrage(){}
+
 
 
 }

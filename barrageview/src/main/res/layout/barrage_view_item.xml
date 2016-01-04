@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/barrageItemContent"
+        android:layout_width="wrap_content"
+        android:maxWidth="129dp"
+        android:padding="10dp"
+        android:layout_marginLeft="-5dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/games_barrage_bg_small_n"
+        android:scaleType="fitXY"
+        android:textColor="@android:color/white"
+        android:text="This is a barrage item."
+        android:textSize="12dp"
+        android:layout_toRightOf="@+id/id_drawee_barrage"
+        />
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:fresco="http://schemas.android.com/apk/res-auto"
+        android:id="@id/id_drawee_barrage"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        fresco:actualImageScaleType="focusCrop"
+        fresco:fadeDuration="300"
+        fresco:placeholderImage="@android:color/white"
+        fresco:placeholderImageScaleType="fitCenter"
+        fresco:roundAsCircle="true"
+        fresco:roundingBorderColor="@color/yellow"
+        fresco:roundingBorderWidth="2dp"
+
+        />
+
+</RelativeLayout>

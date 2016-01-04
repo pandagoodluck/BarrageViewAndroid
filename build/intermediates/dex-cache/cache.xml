@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Projects\MINE\BarrageViewAndroid\sample-barrageview\build\intermediates\exploded-aar\BarrageViewAndroid\barrageview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a2ec0babecd4808e6d7fe008b3daa7e181f3026b">
+        <dex dex="E:\Projects\MINE\BarrageViewAndroid\sample-barrageview\build\intermediates\pre-dexed\debug\classes-9bf75171a7a6c5c2127e2fe640c6b5e21072035d.jar" />
+    </item>
+
+</items>
